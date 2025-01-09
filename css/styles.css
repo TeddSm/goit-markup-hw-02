@@ -1,12 +1,18 @@
 body {
     font-family: "Roboto", sans-serif;
+    color: #434455;
+    background: #FFFFFF;
 }
 .navigation-link, .address-link{
     text-decoration: none;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #2e2f42;
+}
+
+.address {
     font-style: normal;
+    color: #434455;
 }
 
 .logo {
@@ -15,12 +21,13 @@ body {
     font-weight: 700;
     text-transform: uppercase;
     text-decoration: none;
-    color: #2e2f42;
-    line-height: 1.16667;
+    color: #4d5ae5;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
 }
 
 .logo-text {
-    color: #4d5ae5;
+    color: #2e2f42;
 }
 
 ul {
