@@ -3,11 +3,12 @@ body {
     color: #434455;
     background: #FFFFFF;
 }
+
 .navigation-link, .address-link{
     text-decoration: none;
     line-height: 1.5;
     letter-spacing: 0.02em;
-    color: #2e2f42;
+    color: #434455 ;
 }
 
 .address {
@@ -43,13 +44,16 @@ nav>ul {
     color: #404bbf;
 }
 
-#solutions {
+.solutions {
     background: #2e2f42;
 }
 
-h1 {
+.page-title {
+    font-size: 56px;
     color: #fff;
     text-align: center;
+    line-height: 1.07;
+    letter-spacing: 0.02em;
 }
 
 h2 {
@@ -61,6 +65,9 @@ h2 {
     color: #fff;
     font-weight: 500;
     font-size: 16px;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    cursor: pointer;
 }
 
 .button-order:hover,
