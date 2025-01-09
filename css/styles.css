@@ -11,6 +11,10 @@ body {
     color: #434455 ;
 }
 
+.navigation-link {
+    color: #2e2f42;
+}
+
 .address {
     font-style: normal;
     color: #434455;
@@ -84,11 +88,16 @@ h2 {
     background: #fff;
 }
 
-footer {
+.footer {
     background: #2e2f42;
     color: #f4f4fd;;
 }
 
 .logo-text-footer {
-    color: #fff;
+    color: #f4f4fd;
+}
+
+footer-text {
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 }
