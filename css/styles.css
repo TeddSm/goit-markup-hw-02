@@ -84,10 +84,6 @@ h2 {
     text-align: center;
 }
 
-.team-cards > li {
-    background: #fff;
-}
-
 .footer {
     background: #2e2f42;
     color: #f4f4fd;;
@@ -136,3 +132,16 @@ h2 {
     line-height: 1.5;
     letter-spacing: 0.02em;
 }
+
+.team-title {
+    font-size: 36px;
+    line-height: 1.11;
+    letter-spacing: 0.02em;
+    text-transform: capitalize;
+    color: #2e2f42;
+}
+
+.team-cards {
+    background: #fff;
+}
+
